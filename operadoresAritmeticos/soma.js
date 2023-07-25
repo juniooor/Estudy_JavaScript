@@ -16,3 +16,11 @@ divide = primeiro / segundo
 // PRECEDENCIA
 
 console.log((3 + 4) * 2)
+
+
+let idade = 22
+let drive = true
+
+const driveoks = idade>=18 && drive===true
+
+console.log(driveoks)
